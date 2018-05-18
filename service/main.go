@@ -181,7 +181,7 @@ const (
 	//PROJECT_ID = "glassy-mystery-203921"
 	//BT_INSTANCE = "around-post"
 	// Needs to update this URL if you deploy it to cloud.
-	ES_URL = "http://35.229.47.157:9200"
+	ES_URL = "http://104.196.45.222:9200"
 
 	// Needs to update this bucket based on your gcs bucket name.
 	//GCS find bucket through bucket name
